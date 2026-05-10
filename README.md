@@ -56,6 +56,6 @@
         ```
 - [ch05 Colab 筆記本](https://colab.research.google.com/drive/1wJRrL5DAVusrpuNFd2bYPS599jlIWzD4?usp=sharing)
 - ch05 適用於 [Google GenAI SDK 2.x 版](https://github.com/googleapis/python-genai/releases/tag/v2.0.0) 後的 [Colab 筆記本](https://colab.research.google.com/drive/1sLkIgcCVWAX8l324Nref1aCDjSbobUnA?usp=sharing)
-- [ch05 GitHub Repo](https://github.com/FlagTech/F6723_Interactions_API)
+- [ch05 GitHub Repo](https://github.com/FlagTech/F6723_Interactions_API)，如果要使用 Google GenAI SDK 2.x 版，請切換到 [SDK-V2 分支](https://github.com/FlagTech/F6723_Interactions_API/tree/SDK-V2)
 - [ch06 GitHub Repo](https://github.com/FlagTech/F6723_Live_API)
 - [ch07 GitHub Repo](https://github.com/FlagTech/F6723_ucc)
