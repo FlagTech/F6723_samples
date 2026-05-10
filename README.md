@@ -55,7 +55,7 @@
         nvm install node
         ```
 - [ch05 Colab 筆記本](https://colab.research.google.com/drive/1wJRrL5DAVusrpuNFd2bYPS599jlIWzD4?usp=sharing)
-- 適用於 [Google GenAI SDK 2.x 版](https://github.com/googleapis/python-genai/releases/tag/v2.0.0) 後的 [Colab 筆記本](https://colab.research.google.com/drive/1sLkIgcCVWAX8l324Nref1aCDjSbobUnA?usp=sharing)
+- ch05 適用於 [Google GenAI SDK 2.x 版](https://github.com/googleapis/python-genai/releases/tag/v2.0.0) 後的 [Colab 筆記本](https://colab.research.google.com/drive/1sLkIgcCVWAX8l324Nref1aCDjSbobUnA?usp=sharing)
 - [ch05 GitHub Repo](https://github.com/FlagTech/F6723_Interactions_API)
 - [ch06 GitHub Repo](https://github.com/FlagTech/F6723_Live_API)
 - [ch07 GitHub Repo](https://github.com/FlagTech/F6723_ucc)
